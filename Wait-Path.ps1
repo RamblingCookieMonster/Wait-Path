@@ -57,6 +57,9 @@
     .FUNCTIONALITY
         PowerShell Language
 
+    .LINK
+        https://github.com/RamblingCookieMonster/Wait-Path
+
     #>
     [cmdletbinding()]
     param (
