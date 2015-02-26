@@ -2,3 +2,6 @@
 
 This is a PowerShell function to abstract out the logic behind waiting for paths to exist.
 
+This was written to give [a brief overview](https://ramblingcookiemonster.wordpress.com/2015/02/25/fun-with-github-pester-and-appveyor/) on combining GitHub, Pester, and AppVeyor services.
+
+Contributions would be appreciated!
