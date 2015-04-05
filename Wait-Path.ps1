@@ -59,7 +59,6 @@
 
     .LINK
         https://github.com/RamblingCookieMonster/Wait-Path
-
     #>
     [cmdletbinding()]
     param (
